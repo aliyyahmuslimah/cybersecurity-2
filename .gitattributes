@@ -1,0 +1,8 @@
+# Text artifacts that are signed/hashed must stay byte-identical in Windows clones (core.autocrlf):
+# without this LF becomes CRLF and the RSA-PSS signature / SHA-256 manifest no longer match.
+1_symmetric/artifacts/** -text
+3_hash/artifacts/** -text
+5_homework/artifacts/** -text
+4_practical_exam/** -text
+*.enc binary
+*.sig binary

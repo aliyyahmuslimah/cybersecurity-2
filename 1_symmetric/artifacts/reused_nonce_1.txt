@@ -1,0 +1,1 @@
+REPORT|2026-03-02|status=PROCESSING|amount=12500000|warehouse=A
