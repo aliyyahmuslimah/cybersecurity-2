@@ -10,10 +10,10 @@ automated tests.
 
 | Folder | When | Contents |
 |---|---|---|
-| [`1_symmetric/`](1_symmetric/README.md) | Session 1 (Week 3) | a Caesar warm-up (C1–C2), AES-GCM, ECB, a reused nonce, an embedded key |
-| [`2_asymmetric/`](2_asymmetric/README.md) | Session 1 (Week 1) | RSA-OAEP, RSA without padding, hybrid encryption |
+| [`1_symmetric/`](1_symmetric/README.md) | Session 1 (Week 3, 150 min) | a Caesar warm-up (C1–C2), AES-GCM, ECB, a reused nonce, an embedded key |
+| [`2_asymmetric/`](2_asymmetric/README.md) | Session 2 (Week 4) | RSA-OAEP, RSA without padding, hybrid encryption |
 | [`3_hash/`](3_hash/README.md) | Session 2 (Week 4) | salted hashing, a dictionary attack, a KDF |
-| [`4_practical_exam/`](4_practical_exam/exam_instructions.md) | end of Session 2 | three stations, Packages A/B — **handed out by the instructor at exam time, not before** |
+| [`4_practical_exam/`](4_practical_exam/exam_instructions.md) | end of Session 2 | three stations, Packages A–E — **handed out by the instructor at exam time, not before** |
 | [`5_homework/`](5_homework/README.md) | after the sessions (Assignment 2) | A4, H4, all the automated-test skeletons, the take-home evidence sheet |
 
 ## Timetable

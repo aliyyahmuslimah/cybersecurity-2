@@ -4,7 +4,7 @@ __pycache__/
 *.key
 *_private.pem
 INSTRUCTOR
-4_practical_exam
+# 4_practical_exam
 5_homework
 build_all.py
 build_artifacts.py
