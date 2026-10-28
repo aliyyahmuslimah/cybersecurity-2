@@ -16,8 +16,8 @@ One row per step. Keep each cell short and checkable, paste real output, and **n
 ## Short explanation (2–3 sentences each)
 
 - Why are ECB and a fixed nonce dangerous?
-ECB is dangerous because identical plaintext blocks produce identical ciphertext blocks, making patterns visible. Reusing a nonce with AES-GCM can weaken security and may allow attackers to recover information or forge messages.
+ECB is dangerous because identical plaintext blocks produce identical ciphertext blocks, so patterns can be seen. Reusing a nonce with AES-GCM is dangerous because it can weaken encryption security and allow attackers to recover information or forge messages.
 - Why does an embedded key make encryption useless?
-An embedded key makes encryption useless because attackers can find the key in the source code and use it to decrypt the data. The key should be stored securely outside the source code.
+An embedded key makes encryption useless because attackers can find the key in the source code and use it to decrypt the encrypted data. The key should be stored securely outside the source code.
 
 _____________________________________________________________________
